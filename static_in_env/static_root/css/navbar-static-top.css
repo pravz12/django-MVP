@@ -1,0 +1,38 @@
+body {
+  min-height: 1000px;
+}
+
+.navbar-static-top {
+  margin-bottom: 19px;
+  background-color: #093A0A;
+  border-color: #1A5F23;
+}
+
+.text_align_center{
+    text-align : center;
+    color: black;
+ }
+
+.navbar-default .navbar-brand {
+    color: #FFF;
+}
+
+.navbar-default .navbar-brand :hover{
+    color: #777
+}
+
+.navbar-default .navbar-nav>li>a:hover {
+    color: #999;
+}
+
+.navbar-default .navbar-toggle {
+    border-color: black !important; 
+}
+
+.navbar-toggle:hover {
+    background-color: #1A5F23 !important; 
+}
+
+.navbar-toggle {
+    background-color: #093A0A  !important; 
+}
